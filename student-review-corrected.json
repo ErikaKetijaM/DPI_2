@@ -1,0 +1,32 @@
+{
+  "student": "Ērika Ketija Muižniece",
+  "studentId": "em25177",
+  "completedAt": "2026-09-24T09:10:28.654Z",
+  "reviews": {
+    "D041": "Since DPI hadn't yet delivered its services, but had received the customers money, DPI still owed the service/goods, so €90,000 was a liability. Calling it revenue, would make the profit too high, which would be incorrect.",
+    "D042": "It was a loan from the bank, not a money that DPI had earned doing their services to customer. As well loans have to be repaid, and that makes this a liability, it in no way increases profit.",
+    "D043": "The machine will be used over long-term period, and it will help DPI produce more and deliver future revenue. So it is a long-term asset which needs to be capitalised at first, and over its useful life, depreciated. At the purchase date, equipment increases by €60,000 and cash decreases by €60,000, so total assets do not change.",
+    "D044": "Same as the packaging machine, the photo booth will be useful for more than one period and more than one event, so it is also capitalised as long- term asset and depreciated over its useful life.",
+    "D045": "Because it was maintenence expense to make the machine work at its usual condition, not to enhance it or extend its useful life .",
+    "D046": "There was no evidence that this payment had buisness purpose, as well the villa was in  the owners personal name. So, DPI as a company didn't receive any buisness asset or benefit. So I treated the €70,000 as an owner distribution which reduced owners equity.",
+    "D047": "Like the villa payment, there was no evidence that the card spending benefited the company. So i treated this as owner distribution.",
+    "D048": "€80,000 opening inventory + €459,000 purchases - €405,000 materials COGS - €22,000 damaged stock = €112,000 closing inventory. The teacher reference reconstruction requires €405,000 COGS and €112,000 closing inventory.",
+    "D049": "The staff was needed directly ro earn sales by delivering the product. Without the workers it couldn't have happened, so their €80,000 is a direct cost of sales.",
+    "D056": "DPI doesn't expense it all at once, since it is an asset that will help over time. instead they spread the cost of it over the periods the machine is used.",
+    "D057": "The liquidator said that this customers recovery isn't expected, So keeping the €18,000 as a receivable would seem like the money, DPI is to collect, is higher that it actually is. It had to be written off.",
+    "D058": "Because the wet and unusable stock would not bring any economic benefit, so it couldn't remein as inventory asset and had to be written off.",
+    "D059": "Because legal advice estimated that €25,000 claim is the best estimate. Since DPI had obligation and the amount was estimated, it had to be recorded as a provision.",
+    "D064": "The goods were delivered and accepted before year end, so DPI completed its obligation to the customer. So DPI earned the revenue. ",
+    "D065": "the goods were delivered and accepted before year end, so DPI completed its obligation to the customer and earned €180,000 revenue.",
+    "D066": "The event was completed before year end, so DPI completed its obligation to the customer and earned €100,000 revenue.  The unpaid €30,000 was recorded as a receivable",
+    "D067": "Liberty Hotels received the order before year end, so DPI earned the full €120,000 revenue, of which the customer had not yet paid €25,000, so that unpaid amount was recorded as a receivable.",
+    "D068": "DPI had received the money, but hadn't  completed the promised events. It still owed customers the service, so the €90,000 remains a contract liability until the events are delivered.",
+    "D071": "The liquidator notice said that recovery from the customer was not expected. Therefore, DPI should not keep the €18,000 as an asset, and the full amount was written off.",
+    "D072": "The wet stock was unusable and had no saleable value. Therefore, the full €22,000 had to be written off and could not stay in closing inventory.",
+    "D073": "External legal advice said the claim was probable, and €25,000 was the best estimate of the likely cost. So, DPI recognised a €25,000 provision.",
+    "D074": "The assets were used during the period, so €24,000 represents the part of their cost used up this year. Depreciation spreads an asset’s cost over its useful life instead of expensing it all at once.",
+    "D075": "The earlier physical count showed €121,000, but the final teacher-corrected inventory roll-forward gives €112,000 closing inventory after €405,000 materials COGS and the €22,000 write-off of unusable wet stock.",
+    "D091": "The corrected accounts were based on the strongest available evidence, and the inventory and insurance corrections have now been reconciled. The €4,000 insurance expense and €8,000 closing prepaid insurance were an instructor clarification. Any remaining uncertainty must be disclosed openly rather than hidden.",
+    "D100": "Management’s €312,000 profit was not supported by the evidence. It wrongly treated customer deposits and bank borrowing as income, did not properly deal with owner spending, and missed important adjustments such as costs, write-offs, provisions, and depreciation. Therefore, the final corrected €61,000 profit is the evidence-based figure for valuation or earn-out purposes."
+  }
+}
